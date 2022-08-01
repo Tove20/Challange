@@ -8,4 +8,5 @@ sortingObjects.sort(function(a, b) {
     return  parseFloat(b.invoice.number) - parseFloat(a.invoice.number);
 });
 
+console.log(sortingObjects);
 module.exports = sortingObjects;
