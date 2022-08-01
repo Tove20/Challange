@@ -1,7 +1,10 @@
 server:
-npm i
-npm i express
-npm i nodemon -D
+-npm i
+
+-npm i express
+
+-npm i nodemon -D
+
 
 client:
 npx create-react-app .
