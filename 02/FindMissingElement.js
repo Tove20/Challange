@@ -15,4 +15,6 @@ let start = 1;
 let deleteCount = 2;
 findMissingElement.splice(start, deleteCount);
 
+console.log(findMissingElement);
+
 module.exports = findMissingElement;
