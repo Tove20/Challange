@@ -19,6 +19,8 @@ body {
     text-align: center; 
 }
  .btn {
+    font-weight: bold;
+    font-family: 'Poppins', sans-serif;
     display: inline-block;
     background: transparent;
     border:none;
